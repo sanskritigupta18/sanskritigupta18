@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently learning MERN stack development.
+I am a MERN Stack Developer who loves creating user-friendly web applications. I enjoy solving problems and learning new things in web development!
 
 
 ## 🌐 Socials:
